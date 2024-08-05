@@ -46,13 +46,16 @@ pkg install wget
 pkg install yarn
 ```
 ```
-git clone (copy and paste your forked repo link not mine to save changes your changes) 
+git clone (copie et passe le lien du repo que tu a fork avec tes modifications ) 
 ```
 ```
-cd Venom-2
+cd Jean
 ```
 ```
 yarn install
+```
+```
+node index --pairing-code
 ```
 ```
 npm start
